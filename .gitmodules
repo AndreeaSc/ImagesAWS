@@ -1,6 +1,3 @@
-[submodule "ImagesAWS"]
-	path = ImagesAWS
-	url = https://github.com/AndreeaSc/ImagesAWS.git
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/AndreeaSc/ImagesAWS
+	url = https://github.com/AndreeaSc/ImagesAWS/tree/main/src/main
